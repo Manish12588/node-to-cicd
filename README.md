@@ -9,6 +9,6 @@ npm install
 
 node app.js
 
-or Run by docker compose
+or Run by docker-compose to deploy the application
 
 test
